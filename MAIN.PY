@@ -17,7 +17,7 @@ from openai_utils import determine_task
 app = FastAPI()
 
 # ✅ Use AI Proxy Token (Set in Environment Variables)
-openai.api_key = os.getenv("AIPROXY_TOKEN")
+openai.api_key = os.getenv("AIRPROXY_TOKEN")
 
 class TaskRequest(BaseModel):
     task: str
