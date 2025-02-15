@@ -1,0 +1,9 @@
+From: john.doe@example.com
+To: team@example.org
+Subject: Project Update  
+
+Hello Team,  
+Here is the latest update on the project. Let me know if you have any questions.  
+
+Regards,  
+John Doe  
