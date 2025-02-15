@@ -1,0 +1,10 @@
+# Ignore unnecessary files
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.zip
+*.mp4
+*.csv
+node_modules/
+data/
